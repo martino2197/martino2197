@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-lmartinmaceda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmartinmaceda/)](https://www.linkedin.com/in/lmartinmaceda)
 [![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](Enlace Pendiente!!!)
-[![Twitter Badge](https://img.shields.io/badge/-@rachittshah20-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/lmartin_maceda)](https://mobile.twitter.com/lmartin_maceda)
+[![Twitter Badge](https://img.shields.io/badge/-@lmartin_maceda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/lmartin_maceda)](https://mobile.twitter.com/lmartin_maceda)
 [![Instagram Badge](https://img.shields.io/badge/-@rachitt__shah-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/lmartin_maceda/)](https://www.instagram.com/lmartin_maceda/)
 [![Gmail Badge](https://img.shields.io/badge/-rachitt01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:rachi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmartin_maceda/)](https://www.linkedin.com/in/lmartin_maceda)
