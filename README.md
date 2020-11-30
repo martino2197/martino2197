@@ -44,7 +44,6 @@
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
-[![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
 
 
