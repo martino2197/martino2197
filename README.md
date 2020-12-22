@@ -14,10 +14,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
  
-![](Enlace Pendiente)
-
-<b>You can site my portfolio:<b> h
-<b>You can site my portfolio:<b> Enlace Pendiente!!!
 
 
 ### Languages and Tools :
