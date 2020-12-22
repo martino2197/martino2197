@@ -13,15 +13,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-**About me:**
-
-- 🌱 I’m active in [](Enlace Pendiente!!!)
-- 👯 Curious about everything,hit me up!
-- 📫 How to reach me: Any of the Social-Media Platforms.
-- 👯 
-- ✨ I'm into gaming,poetry and a cinema aficionado.
--  🔭 **I’m currently working on**
+ 
 ![](Enlace Pendiente)
 
 <b>You can site my portfolio:<b> h
