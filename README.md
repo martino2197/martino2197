@@ -1,4 +1,5 @@
-### Hello World 👋 It's [martino2197]
+### Hello World 👋 I'm a software developer with experience in mobile development and specialized in Web development, passionate about technology, design, in constant learning and with a growth mindset in the face of new challenges.
+
 
 <p align="center">
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
