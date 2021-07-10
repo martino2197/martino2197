@@ -32,9 +32,10 @@
   <img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
-[![Website Badge](https://img.shields.io/badge/-martino2197.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
+(https://twitter.com/lmartin_maceda)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lmartin_maceda)
-[![Gmail Badge](https://img.shields.io/badge/-luis.martin.maceda-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luis.martin.maceda@gmail.com)](mailto:luis.martin.maceda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.martin.maceda@gmail.com)
 [![Tiktok Badge](	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.instagram.com/lmartin_maceda/)
 <br>
 
