@@ -23,7 +23,7 @@
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 **Stats :**  (https://gitstats.me/martino2197)
 <br>
@@ -45,5 +45,7 @@
 <p align="center">
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
   <br>
+  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
