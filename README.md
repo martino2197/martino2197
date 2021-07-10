@@ -31,7 +31,7 @@
 
   <img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
 
-[![Linkedin Badge](https://img.shields.io/badge/-lmartinmaceda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmartinmaceda/)](https://www.linkedin.com/in/lmartinmaceda)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
 [![Website Badge](https://img.shields.io/badge/-martino2197.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]
 [![Twitter Badge](https://img.shields.io/badge/-@lmartin_maceda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/lmartin_maceda)](https://mobile.twitter.com/lmartin_maceda)
 [![Instagram Badge](https://img.shields.io/badge/-@lmartin_maceda-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/lmartin_maceda/)](https://www.instagram.com/lmartin_maceda/)
