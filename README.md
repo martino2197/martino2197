@@ -25,7 +25,7 @@
 <br>
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
-<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=400 />
+<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=320 />
 
 
 
@@ -33,7 +33,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.martin.maceda@gmail.com)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/lmartin_maceda)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martino2197)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lmartin_maceda)
 [![Tiktok Badge](	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.instagram.com/lmartin_maceda/)
 <br>
