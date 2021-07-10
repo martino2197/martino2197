@@ -29,7 +29,7 @@
 
 
 
-  <img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
+ <img align="center" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=200>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.martin.maceda@gmail.com)
