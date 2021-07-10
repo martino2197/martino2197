@@ -2,7 +2,7 @@
 
 <h2>👋 I'm a software developer with experience in mobile development and specialized in Web development, passionate about technology, design, in constant learning and with a growth mindset in the face of new challenges.</h2>
 
-### Languages and Tools :
+<h3>Languages and Tools :</h3>
 
 
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
