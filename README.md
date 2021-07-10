@@ -3,8 +3,6 @@
 <h3>👋 I'm a software developer with experience in mobile development and specialized in Web development, passionate about technology, design, in constant learning and with a growth mindset in the face of new challenges.</h3>
 
 <h3>Languages and Tools :</h3>
-
-
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
@@ -23,16 +21,15 @@
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 
-
-
 **Stats :**
 <br>
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" />
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
-  <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" />
 
 
 
+  <img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
 
 [![Linkedin Badge](https://img.shields.io/badge/-lmartinmaceda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmartinmaceda/)](https://www.linkedin.com/in/lmartinmaceda)
 [![Website Badge](https://img.shields.io/badge/-martino2197.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]
@@ -43,12 +40,7 @@
 
 <br>
 
-<p align="center">
-  
-  <br>
-  
-  <img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
-  
+<p align="center"> 
 
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
