@@ -27,7 +27,7 @@
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=480 />
 
-
+<br>
 
  <img align="center" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=200>
 
