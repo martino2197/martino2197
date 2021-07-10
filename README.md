@@ -25,7 +25,7 @@
 <br>
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
-<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=400 />
+<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=380 />
 
 <h3>Where to find me</h3>
 
