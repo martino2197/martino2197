@@ -45,7 +45,6 @@
   
   <br>
   
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
-  <div class="tenor-gif-embed" data-postid="15937608" data-share-method="host" data-width="100%" data-aspect-ratio="0.7991967871485944"><a href="https://tenor.com/view/angry-cat-working-laptop-gif-15937608">Angry Cat GIF</a> from <a href="https://tenor.com/search/angry-gifs">Angry GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" alt="GIF" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8658741/Coraje_y_su_computadora_medium_square.gif" />
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
