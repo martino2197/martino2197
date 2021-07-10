@@ -27,10 +27,8 @@
 
 **Stats :**
 <br>
-
-<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
-
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
+<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-lmartinmaceda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmartinmaceda/)](https://www.linkedin.com/in/lmartinmaceda)
