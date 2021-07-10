@@ -35,6 +35,3 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lmartin_maceda)
 [![Tiktok Badge](	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lmartin_maceda?)
 
-
-
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
