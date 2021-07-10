@@ -27,10 +27,6 @@
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-OwPXdU19Zzk/XOrNGmis8DI/AAAAAAAAAHs/ZeVfUtui8rQkxUYrvFJ_EE-H40fBeNPBgCEwYBhgL/s400/tenor%2B%252827%2529.gif" width=480 />
 
-<br>
-
-<br>
-
 <h3>Where to find me</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
@@ -40,11 +36,5 @@
 [![Tiktok Badge](	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lmartin_maceda?)
 
 <img align="center" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=200>
-<br>
-
-<br>
-
-<p align="center"> 
-
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
