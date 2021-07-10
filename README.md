@@ -45,6 +45,6 @@
   
   <br>
   
-  <img align="right" alt="GIF" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8658741/Coraje_y_su_computadora_medium_square.gif" />
+  <img align="right" alt="GIF" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8658741/Coraje_y_su_computadora_medium_square.gif" width=200 />
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
