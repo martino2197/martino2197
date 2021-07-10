@@ -28,6 +28,7 @@
 **Stats :**
 <br>
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
+<img align="right" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
 
@@ -41,7 +42,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
+  
   <br>
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
