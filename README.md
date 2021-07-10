@@ -25,7 +25,7 @@
 
 
 
-**Stats :**  (https://gitstats.me/martino2197)
+**Stats :**
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
