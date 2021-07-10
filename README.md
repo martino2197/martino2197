@@ -33,7 +33,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
 [![Website Badge](https://img.shields.io/badge/-martino2197.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)]
-[![Twitter Badge](https://img.shields.io/badge/-@lmartin_maceda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/lmartin_maceda)](https://mobile.twitter.com/lmartin_maceda)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lmartin_maceda)
 [![Instagram Badge](https://img.shields.io/badge/-@lmartin_maceda-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/lmartin_maceda/)](https://www.instagram.com/lmartin_maceda/)
 [![Gmail Badge](https://img.shields.io/badge/-luis.martin.maceda-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luis.martin.maceda@gmail.com)](mailto:luis.martin.maceda@gmail.com)
 <br>
