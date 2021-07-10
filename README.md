@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h2>👋 I'm a software developer with experience in mobile development and specialized in Web development, passionate about technology, design, in constant learning and with a growth mindset in the face of new challenges.</h2>
+<h3>👋 I'm a software developer with experience in mobile development and specialized in Web development, passionate about technology, design, in constant learning and with a growth mindset in the face of new challenges.</h3>
 
 <h3>Languages and Tools :</h3>
 
