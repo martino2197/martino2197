@@ -29,6 +29,8 @@
 
 <br>
 
+<br>
+
  <img align="center" src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=200>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmartinmaceda)
