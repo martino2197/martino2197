@@ -29,7 +29,7 @@
 <br>
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 [![martino2197 github stats](https://github-readme-stats.vercel.app/api?username=martino2197)](https://github.com/martino2197/github-readme-stats)
-  <img align="right" alt="GIF" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8658741/Coraje_y_su_computadora_medium_square.gif" width=200 />
+  <img align="right" alt="GIF" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8658741/Coraje_y_su_computadora_medium_square.gif" width=640 />
 
 
 
